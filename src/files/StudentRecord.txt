@@ -1,0 +1,8 @@
+Id: 101
+Name: Harry
+Marks: 100 99 98 99 99 
+Total Marks: 495
+Percentage: 99.0%
+Highest Mark: 100
+Lowest Mark: 98
+
